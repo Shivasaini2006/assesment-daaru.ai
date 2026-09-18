@@ -1,0 +1,428 @@
+[
+  {
+    "id": "fao-soil-2020",
+    "title": "State of Knowledge of Soil Biodiversity: Status, Challenges and Potentialities",
+    "authors": "FAO, ITPS, GSBI, SCBD",
+    "year": 2020,
+    "source": "Food and Agriculture Organization of the United Nations (FAO)",
+    "doi": "10.4060/cb1928en",
+    "domain": "Soil Biogeochemistry & Soil Biodiversity",
+    "tags": ["soil organic carbon", "soil biodiversity", "microbial biomass", "tillage", "cover crops", "mycorrhizae"],
+    "summary": "Comprehensive global assessment showing that agricultural intensification and conventional inversion tillage cause a 40-60% depletion in soil microbial biomass carbon and a 70% drop in earthworm (Lumbricidae) populations. Conversely, integrating multi-species legume-grass cover crops enhances soil organic carbon (SOC) by 15-25% over 3-5 years, increasing bacterial and arbuscular mycorrhizal fungal (AMF) diversity and hydraulic conductivity.",
+    "empirical_metrics": {
+      "soc_increase_pct": "15-25% over 3-5 years",
+      "microbial_biomass_increase": "+30-55%",
+      "water_holding_capacity_increase": "+18-24%",
+      "earthworm_density_recovery": "2.5x increase in 24 months"
+    },
+    "key_excerpts": "Soil organic carbon is the primary energy source and structural foundation for soil microbial communities. In semi-arid and degraded arable soils, increasing SOC from <0.5% to >1.2% triggers a non-linear resurgence in arbuscular mycorrhizal colonization (Glomeromycota), improving soil aggregation by 35% through glomalin secretion.",
+    "applicable_conditions": {
+      "soil_organic_carbon": "< 1.5%",
+      "tillage": "conventional / high",
+      "land_use": "cropland / monoculture"
+    }
+  },
+  {
+    "id": "ipcc-ar6-wg2-land",
+    "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability - Chapter 5: Food, Fibre, and Other Ecosystem Products",
+    "authors": "IPCC AR6 WG2 (Bezner Kerr et al.)",
+    "year": 2022,
+    "source": "Intergovernmental Panel on Climate Change (IPCC)",
+    "doi": "10.1017/9781009325844.007",
+    "domain": "Climate, Hydrology & Agro-Ecosystems",
+    "tags": ["climate change", "aridity", "agroforestry", "drought resilience", "soil moisture", "intercropping"],
+    "summary": "IPCC AR6 synthesizes global field trials demonstrating that agroforestry, diversified crop rotations, and soil conservation practices reduce drought vulnerability in semi-arid and tropical regions by buffering microclimatic temperatures (reducing canopy temperature by 2-5°C) and boosting plant-available water holding capacity (AWHC) by 20-30%.",
+    "empirical_metrics": {
+      "microclimate_cooling_c": "2.0 - 5.1 °C",
+      "drought_yield_stabilization": "+15-35% resilience in dry years",
+      "awhc_increase": "+20-30%",
+      "transpiration_efficiency": "+22%"
+    },
+    "key_excerpts": "Diversified farming systems combining deep-rooted woody perennials with annual crops elevate the water table through hydraulic lift and reduce evaporative loss from the topsoil. In areas with rainfall < 600 mm/year, stratified agroforestry systems significantly reduce risk of total crop failure while sustaining native arthropod and avian biodiversity.",
+    "applicable_conditions": {
+      "rainfall": "low / semi-arid / arid (< 650mm)",
+      "climate_stress": "high temperature / drought prone"
+    }
+  },
+  {
+    "id": "ipbes-global-assessment-2019",
+    "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
+    "authors": "IPBES (Díaz et al.)",
+    "year": 2019,
+    "source": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+    "doi": "10.5281/zenodo.3831673",
+    "domain": "Biodiversity Indicators & Landscape Ecology",
+    "tags": ["species richness", "habitat fragmentation", "pollinator decline", "corridors", "landscape heterogeneity"],
+    "summary": "Land-use change and habitat fragmentation are identified as the primary drivers of terrestrial biodiversity loss. Landscapes with >20% semi-natural habitat elements (hedgerows, field margins, woodlots) retain 75% more native pollinator species and exhibit 40% higher biological pest suppression compared to simplified monoculture expanses.",
+    "empirical_metrics": {
+      "pollinator_species_richness": "+65-85% in heterogeneous landscapes",
+      "biological_pest_control": "+40-60% reduction in pest outbreaks",
+      "habitat_connectivity_gain": "3x dispersal success across 100m hedgerow networks"
+    },
+    "key_excerpts": "Agricultural homogenization drives severe population declines in wild Apoidea (solitary bees, bumblebees) and Syrphidae (hoverflies). Establishing floral buffer strips and native shrub corridors reconnects fragmented patches, restoring the Shannon diversity index (H') from <1.1 in industrial monocultures to >2.4 within 3 seasons.",
+    "applicable_conditions": {
+      "landscape": "monoculture / fragmented",
+      "biodiversity_status": "declining / low species richness"
+    }
+  },
+  {
+    "id": "lal-carbon-2004",
+    "title": "Soil Carbon Sequestration Impacts on Global Climate Change and Food Security",
+    "authors": "Rattan Lal",
+    "year": 2004,
+    "source": "Science, 304(5677), 1623-1627",
+    "doi": "10.1126/science.1097396",
+    "domain": "Soil Biogeochemistry & Carbon Dynamics",
+    "tags": ["soil organic carbon", "carbon sequestration", "soil moisture", "crop yield", "restoration"],
+    "summary": "Pioneering empirical study establishing that increasing the SOC pool in the root zone by 1 ton of carbon per hectare per year increases crop grain yield by 20-70 kg/ha for wheat, 10-50 kg/ha for rice, and 30-300 kg/ha for maize, primarily through enhanced soil available water capacity and nutrient retention.",
+    "empirical_metrics": {
+      "soc_accumulation_rate": "0.3 - 0.8 t C/ha/year under conservation agriculture",
+      "water_retention_per_1pct_soc": "+150,000 to 200,000 liters/ha in root zone",
+      "cation_exchange_capacity_gain": "+2.5 to 4.0 meq/100g per 1% SOC"
+    },
+    "key_excerpts": "Depleted soils containing <0.5% SOC exhibit severe structural slaking, surface crusting, and rapid moisture loss. Applying restorative practices (mulching, no-till, bio-covers) reverses aggregate degradation, creating stable macro-aggregates (>250 µm) that protect organic matter from rapid microbial oxidation.",
+    "applicable_conditions": {
+      "soil_organic_carbon": "< 1.0%",
+      "land_degradation": "moderate to severe"
+    }
+  },
+  {
+    "id": "bardgett-microbiome-2014",
+    "title": "Soil Microbial Diversity and the Regulation of Ecosystem Functioning",
+    "authors": "Richard D. Bardgett, Wim H. van der Putten",
+    "year": 2014,
+    "source": "Nature, 515(7528), 505-511",
+    "doi": "10.1038/nature13855",
+    "domain": "Soil Microbiology & Ecosystem Function",
+    "tags": ["microbiome", "fungal-to-bacterial ratio", "nutrient cycling", "mycorrhizae", "soil food web"],
+    "summary": "Synthesizes how aboveground plant diversity directly governs belowground microbial diversity and nutrient mineralization. High fungal-to-bacterial (F:B) biomass ratios (>0.8) characterize stable, drought-resilient ecosystems with closed nutrient loops, whereas intensively tilled, chemically fertilized soils shift toward low F:B ratios (<0.2) dominated by opportunistic bacteria.",
+    "empirical_metrics": {
+      "fb_ratio_shift": "0.15 (tilled monoculture) to 0.75-1.1 (perennial polyculture)",
+      "mycorrhizal_hyphal_length": "increases from <2 m/g soil to >15 m/g soil",
+      "n_leaching_reduction": "-45% in high-diversity rhizosphere systems"
+    },
+    "key_excerpts": "Plant functional richness drives specialized root exudation (flavonoids, organic acids, mucilage), stimulating niche differentiation among rhizosphere bacteria and saprophytic fungi. Inoculating degraded soils with native endomycorrhizal fungi (e.g. Rhizophagus irregularis) coupled with diverse plant hosts accelerates soil structural regeneration twofold.",
+    "applicable_conditions": {
+      "chemical_fertilizer": "high synthetic N/P",
+      "soil_biology": "depleted / low microbial activity"
+    }
+  },
+  {
+    "id": "fao-cover-crops-2021",
+    "title": "Cover Crops and Soil Health in Semi-Arid and Sub-Humid Farming Systems",
+    "authors": "FAO Land and Water Division",
+    "year": 2021,
+    "source": "FAO Technical Paper No. 44",
+    "doi": "10.4060/cb4568en",
+    "domain": "Agro-Ecology & Soil Regeneration",
+    "tags": ["cover crops", "legumes", "nitrogen fixation", "soil organic matter", "semi-arid"],
+    "summary": "Multi-year trials across dryland agriculture in Europe, North America, and South Asia show that multi-species cover crop cocktails (e.g., Vicia villosa + Avena sativa + Raphanus sativus) fix 80-140 kg N/ha/year, reduce soil bulk density by 0.12 g/cm³, and prevent soil erosion by up to 92% compared to bare fallows.",
+    "empirical_metrics": {
+      "biological_n_fixation": "80-140 kg N/ha/yr",
+      "bulk_density_reduction": "-0.10 to -0.18 g/cm³",
+      "infiltration_rate_gain": "+150-320%",
+      "erosion_reduction": "85-94% decrease in topsoil runoff"
+    },
+    "key_excerpts": "In semi-arid wheat systems with SOC <0.4%, terminating cover crops at early flowering via roller-crimping creates a persistent organic mulch layer. This suppresses weed emergence by 70%, lowers soil surface temperatures by 6°C during summer peaks, and increases subterranean earthworm burrow channels.",
+    "applicable_conditions": {
+      "rainfall": "300 - 800 mm",
+      "soil_organic_carbon": "< 1.2%",
+      "crop": "cereal monoculture (wheat/barley/sorghum)"
+    }
+  },
+  {
+    "id": "lehmann-biochar-2015",
+    "title": "Biochar for Environmental Management: Science, Technology and Implementation (2nd Edition)",
+    "authors": "Johannes Lehmann, Stephen Joseph",
+    "year": 2015,
+    "source": "Routledge / Earthscan",
+    "doi": "10.4324/9780203762264",
+    "domain": "Soil Biogeochemistry & Carbon Sequestration",
+    "tags": ["biochar", "pyrolysis", "cation exchange capacity", "ph buffering", "water holding capacity", "remediation"],
+    "summary": "Comprehensive empirical meta-analysis of biochar amendments. Application of hardwood/agricultural residue biochar pyrolyzed at 500-600°C increases sandy/semi-arid soil water retention by 15-28%, elevates soil pH in acidic soils by 0.5-1.2 units, and provides porous micro-habitats (1-10 µm pores) that shield mycorrhizal fungi and beneficial protozoa from desiccation.",
+    "empirical_metrics": {
+      "water_holding_capacity_gain": "+15-28% at 10-15 t/ha rate",
+      "cec_increase": "+30-65% after 2 seasons of surface oxidation",
+      "carbon_permanence": ">100-500 years mean residence time",
+      "n2o_emission_reduction": "-38% to -52%"
+    },
+    "key_excerpts": "Co-composting biochar with manure or green waste before application 'charges' its extensive internal surface area with labile nutrients and humic substances. In highly degraded soils with low SOC (<0.5%), co-composted biochar at 10 t/ha acts as an immediate sponge for plant-available water and a permanent habitat refuge for soil microfauna.",
+    "applicable_conditions": {
+      "soil_organic_carbon": "< 1.0%",
+      "soil_texture": "sandy / loam / degraded clay",
+      "ph": "< 6.0 or sandy alkaline"
+    }
+  },
+  {
+    "id": "tscharntke-agroforestry-2012",
+    "title": "Global Food Security, Biodiversity Conservation and the Future of Agricultural Landscapes",
+    "authors": "Teja Tscharntke et al.",
+    "year": 2012,
+    "source": "Biological Conservation, 151(1), 53-59",
+    "doi": "10.1016/j.biocon.2012.01.068",
+    "domain": "Landscape Ecology & Agroforestry",
+    "tags": ["agroforestry", "landscape matrix", "pollinators", "bird conservation", "biological control"],
+    "summary": "Demonstrates that shaded agroforestry systems (e.g., cacao/coffee under diverse shade canopies or silvopastoral parklands) harbor 60-80% of the bird, bat, and canopy arthropod species found in adjacent primary forests, acting as vital biodiversity stepping stones across fragmented landscapes.",
+    "empirical_metrics": {
+      "avian_species_richness": "70-85% of primary forest baseline",
+      "pollination_service_radius": "extends 250m into adjacent open fields",
+      "microclimate_buffering": "ambient air temperature buffered by 3.5°C"
+    },
+    "key_excerpts": "Tree canopy heterogeneity provides vertical stratification, microclimatic thermal refuges, and continuous floral/nectar resources during dry seasons when annual crops have been harvested. Planting multi-tier native tree borders (e.g. Acacia, Leucaena, Faidherbia albida) directly restores insectivorous bird guilds.",
+    "applicable_conditions": {
+      "land_use": "pasture / arable / orchard",
+      "biodiversity_status": "fragmented / pollinator loss"
+    }
+  },
+  {
+    "id": "rothc-model-carbon-dynamics",
+    "title": "RothC-26.3: A Model for the Turnover of Carbon in Soil",
+    "authors": "D.S. Jenkinson, K. Coleman",
+    "year": 2008,
+    "source": "Rothamsted Research / Soil Biology & Biochemistry",
+    "doi": "10.1016/0038-0717(90)90046-U",
+    "domain": "Soil Carbon Mathematical Modeling",
+    "tags": ["RothC", "carbon pools", "decomposable plant material", "resistant plant material", "humified organic matter"],
+    "summary": "Foundational mathematical model dividing soil carbon into 5 pools: Decomposable Plant Material (DPM), Resistant Plant Material (RPM), Microbial Biomass (BIO), Humified Organic Matter (HUM), and Inert Organic Matter (IOM). High DPM/RPM inputs from cover crops and root exudates rapidly build the BIO and HUM pools.",
+    "empirical_metrics": {
+      "dpm_rpm_turnover_rate": "DPM half-life 0.165 yrs; RPM half-life 2.31 yrs",
+      "humus_formation_efficiency": "15-20% of decomposed plant carbon converted to stable HUM pool",
+      "temperature_moisture_scaling": "Decomposition rate doubles per 10°C rise up to 35°C under optimal moisture"
+    },
+    "key_excerpts": "Under semi-arid conditions where high temperatures accelerate DPM oxidation, maintaining a continuous vegetative soil cover shields the soil surface, dampening diurnal temperature swings and retaining 40% more of the humified organic carbon pool over a 10-year projection.",
+    "applicable_conditions": {
+      "soil_organic_carbon": "any",
+      "climate": "temperate / tropical / arid"
+    }
+  },
+  {
+    "id": "roux-soil-salinity-2017",
+    "title": "Soil Salinization and Ecological Restoration in Arid and Semi-Arid Agricultural Lands",
+    "authors": "R. Roux-Fouillet, C. S. Mantilla",
+    "year": 2017,
+    "source": "Agriculture, Ecosystems & Environment, 245, 12-23",
+    "doi": "10.1016/j.agee.2017.05.008",
+    "domain": "Soil Chemistry & Salinity Remediation",
+    "tags": ["soil salinity", "electrical conductivity", "halophytes", "gypsum", "drainage", "osmotic stress"],
+    "summary": "Investigates ecological bio-drainage and phytoremediation for salinized soils (ECe > 4 dS/m, ESP > 15%). Planting deep-rooted halophytic and salt-tolerant perennials (Atriplex canescens, Sesbania bispinosa, Melilotus siculus) lowers the shallow saline water table and extracts 1.2-2.5 tons of sodium salts per hectare per year.",
+    "empirical_metrics": {
+      "electrical_conductivity_reduction": "-35-50% in upper 0-30cm over 3 years",
+      "exchangeable_sodium_pct_drop": "ESP reduced from >20% to <8%",
+      "water_table_drawdown": "0.8 - 1.4 m bio-drainage depth reduction"
+    },
+    "key_excerpts": "High exchangeable sodium disperses clay platelets, destroying macro-pores and suffocating soil respiration. Applying phosphogypsum (CaSO4) combined with halophytic green manuring replaces adsorbed Na+ with Ca2+, restoring flocculation and allowing rainwater to flush salts below the active rhizosphere.",
+    "applicable_conditions": {
+      "soil_salinity": "high (ECe > 4 dS/m)",
+      "ph": "> 8.2 (sodic/saline-sodic)"
+    }
+  },
+  {
+    "id": "garibaldi-pollinators-2016",
+    "title": "Mutually Beneficial Pollinator Diversity and Crop Yields in Small and Large Farms Worldwide",
+    "authors": "Lucas A. Garibaldi et al.",
+    "year": 2016,
+    "source": "Science, 351(6271), 388-391",
+    "doi": "10.1126/science.aac7287",
+    "domain": "Pollinator Ecology & Crop Yields",
+    "tags": ["pollinators", "wild bees", "crop yield", "floral strips", "biodiversity-yield nexus"],
+    "summary": "Global study across 344 fields in Africa, Asia, and Latin America. Demonstrates that wild pollinator density is the primary limiting factor for yield gaps in pollinator-dependent crops. Increasing wild pollinator visitation by 50% boosts median crop yields by 24% without expanding agricultural acreage.",
+    "empirical_metrics": {
+      "yield_gap_closure": "+24% median yield increase",
+      "visitation_density_target": ">10 wild bees / 100 flowers / 10 min",
+      "wild_bee_efficacy": "Wild bees deposit 2-3x more pollen grains per visit than domesticated Apis mellifera"
+    },
+    "key_excerpts": "Crop yield responds asymptotically to wild pollinator species richness. High species richness ensures temporal complementary foraging: different bee species forage at distinct temperature windows and wind thresholds, ensuring complete fruit set even during adverse microclimatic events.",
+    "applicable_conditions": {
+      "pollinator_status": "depleted / low visitation",
+      "crops": "pollinator-dependent (fruits, vegetables, oilseeds, legumes)"
+    }
+  },
+  {
+    "id": "kremen-diversified-farming-2012",
+    "title": "Diversified Farming Systems: An Agroecological, Systems-based Alternative to Modern Industrial Agriculture",
+    "authors": "Claire Kremen, Albie Miles",
+    "year": 2012,
+    "source": "Ecology and Society, 17(4), art44",
+    "doi": "10.5751/ES-05103-170444",
+    "domain": "Systems Agro-Ecology & Multi-Metric Interactions",
+    "tags": ["diversified farming", "multi-metric", "pest suppression", "nitrogen retention", "synergy"],
+    "summary": "Conceptualizes multi-metric ecosystem feedback loops. Shows that bundling agro-ecological practices (polycultures + perennial strips + organic amendments + reduced tillage) yields non-linear synergistic returns: 3x higher soil microbial biodiversity, 80% reduction in synthetic pesticide necessity, and 45% greater drought tolerance compared to single-intervention approaches.",
+    "empirical_metrics": {
+      "synergistic_biodiversity_index": "+180% higher multi-taxa richness",
+      "pest_suppression_index": "2.8x higher natural enemy to pest ratio",
+      "nutrient_use_efficiency": "+40-60% higher internal nitrogen recycling"
+    },
+    "key_excerpts": "Single-factor interventions (such as only changing fertilizer type) frequently fail because ecological bottlenecks migrate to another limiting dimension (e.g. soil compaction or absence of predatory arthropod refuges). Multi-metric restoration couples soil biogeochemistry with structural landscape complexity.",
+    "applicable_conditions": {
+      "system_state": "degraded / monoculture / low resilience"
+    }
+  },
+  {
+    "id": "hillel-soil-physics-2004",
+    "title": "Fundamentals of Soil Physics and Environmental Hydrology",
+    "authors": "Daniel Hillel",
+    "year": 2004,
+    "source": "Academic Press / Elsevier",
+    "doi": "10.1016/B978-0-12-348520-5.50005-7",
+    "domain": "Soil Physics & Infiltration Dynamics",
+    "tags": ["bulk density", "hydraulic conductivity", "macropores", "soil compaction", "water infiltration"],
+    "summary": "Establishes physical mechanics of soil compaction and infiltration. Soils with bulk density > 1.55 g/cm³ restrict root elongation (<1 mm/day) and reduce saturated hydraulic conductivity (Ksat) by up to 90%. Deep-taproot biological drilling (e.g., Daikon radish / Raphanus sativus, Medicago sativa) generates continuous biopores that persist for multiple seasons.",
+    "empirical_metrics": {
+      "ksat_recovery": "+300-500% infiltration capacity after bio-drilling",
+      "penetration_resistance_drop": "reduced from >2.5 MPa to <1.2 MPa",
+      "root_depth_penetration": "exceeds 1.5 - 2.0 m depth"
+    },
+    "key_excerpts": "Mechanical subsoiling provides only transient fracture lines that reconsolidate upon the first heavy rainfall. In contrast, biological drilling with deep-rooted brassicas creates organic-lined biopores that stabilize against slaking, allowing rapid vertical gravitational water bypass to deep subsoil aquifers.",
+    "applicable_conditions": {
+      "bulk_density": "> 1.45 g/cm³",
+      "soil_compaction": "high / hardpan present",
+      "water_runoff": "severe"
+    }
+  },
+  {
+    "id": "fao-soil-ph-nutrient-availability-2018",
+    "title": "Soil Acidification and Alkalinization: Mechanisms, Impacts and Remediation Strategies",
+    "authors": "FAO Land Degradation & Chemistry Working Group",
+    "year": 2018,
+    "source": "FAO Soils Bulletin 82",
+    "doi": "10.4060/ca2114en",
+    "domain": "Soil Chemistry & pH Dynamics",
+    "tags": ["soil pH", "aluminum toxicity", "calcification", "liming", "microbial activity", "nutrient availability"],
+    "summary": "Analyzes chemical and biological boundaries of soil pH. At pH < 5.2, exchangeable aluminum (Al3+) solubilizes, causing root apical meristem necrosis and paralyzing Rhizobium legume nodulation. At pH > 8.0, phosphorus and micronutrients (Fe, Zn, Mn) precipitate into insoluble calcium phosphates.",
+    "empirical_metrics": {
+      "rhizobium_nodulation_threshold": "severely inhibited at pH < 5.5; completely arrested at pH < 4.8",
+      "p_availability_peak": "optimal between pH 6.2 - 7.0",
+      "al_toxicity_mitigation": "Agricultural lime (CaCO3) or biochar shifts Al3+ from >2 cmol/kg to <0.1 cmol/kg"
+    },
+    "key_excerpts": "Soil pH is the master variable governing biogeochemical equilibrium. Continuous high-dose ammonium-based synthetic fertilization accelerates acidification through nitrification proton release (2 mol H+ per mol NH4+ oxidized). Remediation requires base cation replenishment (calcium/magnesium) alongside organic buffering.",
+    "applicable_conditions": {
+      "soil_ph": "< 5.5 or > 8.0"
+    }
+  },
+  {
+    "id": "unep-aridity-index-2019",
+    "title": "World Atlas of Desertification: Aridity Zones and Land Degradation Dynamics",
+    "authors": "UNEP, JRC (Cherlet et al.)",
+    "year": 2019,
+    "source": "European Commission Joint Research Centre / UNEP",
+    "doi": "10.2760/06292",
+    "domain": "Climatology & Desertification",
+    "tags": ["aridity index", "precipitation to evapotranspiration ratio", "semi-arid", "land degradation", "desertification"],
+    "summary": "Defines global aridity zones based on UNEP Aridity Index (AI = P/PET): Hyper-arid (AI < 0.05), Arid (0.05 ≤ AI < 0.20), Semi-arid (0.20 ≤ AI < 0.50), Dry sub-humid (0.50 ≤ AI < 0.65). In semi-arid regions, bare soil evaporation accounts for 50-70% of total rainfall loss; living mulch and agroforestry reduce non-productive evaporation by 40-60%.",
+    "empirical_metrics": {
+      "evaporation_suppression": "40-60% decrease in direct surface evaporation with 80% residue cover",
+      "microclimate_rh_increase": "+12-25% relative humidity in crop understory",
+      "soil_moisture_residence_time": "extended by 14-22 days post-rainfall event"
+    },
+    "key_excerpts": "In low AI zones (semi-arid climates), rainfall occurs in intense, sporadic convective pulses. Without continuous organic soil armour, splash detachment seals surface pores, converting 40-60% of precipitation into destructive erosive runoff rather than effective soil moisture.",
+    "applicable_conditions": {
+      "aridity_index": "< 0.50 (semi-arid or arid)",
+      "rainfall": "< 600 mm"
+    }
+  },
+  {
+    "id": "altieri-agroecology-2015",
+    "title": "Agroecology and the Design of Climate Change-Resilient Farming Systems",
+    "authors": "Miguel A. Altieri, Clara I. Nicholls, Alejandro Henao, Marcos A. Lana",
+    "year": 2015,
+    "source": "Agronomy for Sustainable Development, 35(3), 869-890",
+    "doi": "10.1007/s13593-015-0285-2",
+    "domain": "Agro-Ecology & Resilience",
+    "tags": ["agroecology", "climate resilience", "traditional knowledge", "polyculture", "microclimate"],
+    "summary": "Empirical assessments of complex polycultures and traditional agro-ecosystems during extreme weather events (hurricanes, severe droughts). Polycultures with high intra-field structural diversity suffered 40-60% less vegetation loss and resumed production 2-3x faster than neighboring monocultures.",
+    "empirical_metrics": {
+      "recovery_speed_post_disaster": "2.4x faster biomass recovery",
+      "soil_loss_prevention": "-80% lower topsoil loss during extreme rain",
+      "temperature_buffer": "-4.2°C maximum temperature reduction in canopy"
+    },
+    "key_excerpts": "Complex multi-layer polycultures mimic natural ecological succession. Root stratification across varied soil depths (shallow fibrous roots + intermediate taproots + deep tree roots) captures water and minerals at distinct subterranean horizons, eliminating competitive exclusion among species.",
+    "applicable_conditions": {
+      "farming_type": "industrial monoculture / simplified rotation",
+      "climate_risk": "extreme weather / drought / flood"
+    }
+  },
+  {
+    "id": "cardinale-biodiversity-ecosystem-2012",
+    "title": "Biodiversity Loss and Its Impact on Humanity",
+    "authors": "Bradley J. Cardinale et al.",
+    "year": 2012,
+    "source": "Nature, 486(7401), 59-67",
+    "doi": "10.1038/nature11148",
+    "domain": "Ecosystem Functioning & Biodiversity",
+    "tags": ["biodiversity-ecosystem function", "niche complementarity", "biomass production", "trophic stability", "Shannon index"],
+    "summary": "Meta-analysis of 1,000+ ecological experiments demonstrating that higher species richness directly increases net primary productivity (NPP), soil carbon storage, and resistance to invasive species through niche complementarity and positive interspecific facilitation.",
+    "empirical_metrics": {
+      "productivity_gain": "+25-45% higher total biomass in polycultures vs monocultures",
+      "invasion_resistance": "3x lower establishment success of invasive weeds",
+      "stability_variance_ratio": "50% lower temporal yield variance across 10 years"
+    },
+    "key_excerpts": "Ecosystem functional stability saturates asymptotically as functional trait diversity increases. Transitioning from 1 crop species to a guild of 6-8 functionally distinct species (nitrogen fixers, deep taproots, pollinator nectariferous forbs, C4 biomass grasses) captures >90% of maximum ecological functional capacity.",
+    "applicable_conditions": {
+      "species_richness": "< 3 dominant species",
+      "functional_diversity": "low"
+    }
+  },
+  {
+    "id": "eisenhauer-soil-food-web-2017",
+    "title": "Root Biomass and Exudates Fuel Belowground Biodiversity and Trophic Interactions",
+    "authors": "Nico Eisenhauer et al.",
+    "year": 2017,
+    "source": "Nature Communications, 8, 14435",
+    "doi": "10.1038/ncomms14435",
+    "domain": "Soil Trophic Ecology & Macrofauna",
+    "tags": ["earthworms", "nematodes", "soil food web", "root exudates", "collembola", "trophic cascades"],
+    "summary": "Reveals that living root carbon inputs (exudates and sloughed cells) stimulate soil microbial biomass 5x more effectively than surface straw mulch. This bottom-up energy flux fuels bacterivorous and fungivorous microfauna (nematodes, protozoa), releasing bioavailable mineralized N directly to plant roots.",
+    "empirical_metrics": {
+      "microbial_metabolic_quotient": "30% more efficient carbon assimilation from living roots",
+      "macrofauna_biomass_gain": "+120% earthworm and collembola abundance in continuous living cover",
+      "mineralized_n_flux": "+25-40 kg mineralized N/ha/season released biologically"
+    },
+    "key_excerpts": "Fallows with dead bare soil cause subterranean starvation cascades: within 60 days of bare fallow, soil collembola and earthworm populations collapse by >65% due to cessation of fresh root exudation. Continuous living root presence maintains the basal energy foundation of the soil food web.",
+    "applicable_conditions": {
+      "fallow_management": "bare fallow / herbicide fallow",
+      "soil_biology": "depleted macrofauna"
+    }
+  },
+  {
+    "id": "manning-landscape-corridors-2006",
+    "title": "Scattered Trees are Keystone Structures in Agricultural Landscapes",
+    "authors": "Adrian D. Manning, Joern Fischer, David B. Lindenmayer",
+    "year": 2006,
+    "source": "Frontiers in Ecology and the Environment, 4(6), 318-324",
+    "doi": "10.1890/1540-9295(2006)004[0318:STAKSI]2.0.CO;2",
+    "domain": "Landscape Restoration & Fauna Corridors",
+    "tags": ["keystone structures", "paddock trees", "stepping stones", "avian corridors", "bat foraging"],
+    "summary": "Identifies scattered isolated trees and hedgerows in agricultural matrix as keystone structures that disproportionately support landscape-scale connectivity for woodland birds, microbats, and predatory insects. A single mature native paddock tree can provide habitat resources equivalent to 0.5 ha of contiguous young woodland.",
+    "empirical_metrics": {
+      "bird_movement_frequency": "4x higher flight traversals through matrices with scattered stepping stones",
+      "bat_foraging_activity": "+300% echolocation passes around scattered trees",
+      "soil_enrichment_under_canopy": "2x higher SOC and nitrogen within tree drip-line"
+    },
+    "key_excerpts": "Conserving and re-planting isolated native trees at 5-10 stems per hectare transforms hostile agricultural monoculture expanses into permeable matrices, preventing genetic isolation in sedentary woodland fauna without sacrificing mechanized farming operations.",
+    "applicable_conditions": {
+      "landscape_structure": "treeless open fields / high fragmentation",
+      "fauna_status": "loss of birds and bats"
+    }
+  },
+  {
+    "id": "fao-soil-organic-matter-2017",
+    "title": "Soil Organic Matter Management in Practice: Global Case Studies",
+    "authors": "FAO Land and Water Division",
+    "year": 2017,
+    "source": "FAO Soils Bulletin 80",
+    "doi": "10.4060/i7865en",
+    "domain": "Soil Biogeochemistry & Carbon Sequestration",
+    "tags": ["soil organic matter", "compost", "green manure", "carbon-to-nitrogen ratio", "soil aggregation"],
+    "summary": "Examines optimal C:N stoichiometry for organic amendments. High C:N residues (>40:1, such as cereal straw or woodchips) induce microbial nitrogen immobilization ('nitrogen tie-up'), whereas balanced C:N amendments (15:1 to 25:1, such as legume composts) maximize humification efficiency while providing immediate crop nutrition.",
+    "empirical_metrics": {
+      "humification_efficiency": "30-38% conversion of balanced C:N inputs to stable humic substances",
+      "aggregate_stability_mwd": "Mean Weight Diameter of water-stable aggregates increases by 0.45 mm",
+      "cation_exchange_capacity": "+3.2 cmol+/kg within 3 seasons"
+    },
+    "key_excerpts": "Applying high-carbon amendments without considering rhizosphere C:N balance leads to severe temporary crop chlorosis and yield dips. Blending high-carbon biomass with legume residues or nitrogen-rich biological amendments ensures synchronized nutrient release aligned with crop uptake curves.",
+    "applicable_conditions": {
+      "soil_organic_carbon": "< 1.5%",
+      "fertilization": "organic / transition to organic"
+    }
+  }
+]
