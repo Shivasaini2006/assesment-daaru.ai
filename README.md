@@ -267,7 +267,19 @@ Access the interactive workbench at **[http://localhost:5000](http://localhost:5
 
 ---
 
-## 📁 Repository Structure
+## 🐍 Dual Engine Architecture: Python AI & Node.js Microservices
+
+Darukaa.Earth is engineered with a **Dual-Engine Architecture** to provide both a complete interactive full-stack web platform and standalone Python AI modules:
+
+1. **Python AI Pipeline (`python/`)**:
+   - `python/rag_pipeline.py`: Python hybrid RAG engine implementing Okapi BM25 + dense semantic concept vector representations + Reciprocal Rank Fusion (RRF).
+   - `python/nexus_reasoner.py`: Python multi-variable causal reasoning engine with Liebig bottleneck solver and RothC 5-year mathematical pedotransfer projections.
+   - `python/cli_agent.py`: Standalone interactive Python terminal agent for command-line ecological diagnoses.
+   - `python/requirements.txt`: Python dependencies (`numpy`, `scikit-learn`, `fastapi`, `pydantic`).
+
+2. **Node.js / Express / React Full-Stack Engine (`server/` + `src/`)**:
+   - Zero-external-dependency, instant-startup REST API server and modern dark-mode interactive scientist workbench.
+
 
 ```
 ├── .github/
